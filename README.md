@@ -8,3 +8,5 @@ Arm is composed of 3D-printed parts with 5 servo motors. Controlled by Jetson na
 ![image](https://github.com/EricMEP/GAR_ARM/assets/48544912/ba0ea11f-552c-48b2-90a3-93fecfb14a93)
 
 ![image](https://github.com/EricMEP/GAR_ARM/assets/48544912/864d0446-a801-4c4f-9b34-9ec2a29c9c96)
+
+![image](https://github.com/EricMEP/GAR_ARM/assets/48544912/211ac714-a55a-4537-94e2-846ebf609710)
